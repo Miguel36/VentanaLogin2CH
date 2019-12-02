@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">VentanaLogin2</string>
+    <string name="txt_login">Login</string>
+    <string name="edittxt_usuario">Usuario</string>
+    <string name="edittxt_password">Password</string>
+    <string name="btn_aceptar">Aceptar</string>
 </resources>
