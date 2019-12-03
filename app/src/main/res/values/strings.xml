@@ -4,4 +4,5 @@
     <string name="edittxt_usuario">Usuario</string>
     <string name="edittxt_password">Password</string>
     <string name="btn_aceptar">Aceptar</string>
+    <string name="btn_cancelar">Cancelar</string>
 </resources>
